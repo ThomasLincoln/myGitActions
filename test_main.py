@@ -1,6 +1,7 @@
 # test_greetings.py
 
 import pytest
+from main import hello, bye
 
 def test_hello_prints_hi():
   """Teste se a função hello imprime "hi"."""
