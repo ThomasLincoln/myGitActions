@@ -3,7 +3,7 @@
 
 def hello():
     """Prints the greeting "hi". """
-    return "hi"
+    return "hello"
 
 
 def bye():
