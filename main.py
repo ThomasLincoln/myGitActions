@@ -2,7 +2,7 @@
 
 
 def hello():
-    """Prints the greeting "hi"."""
+    """Prints the greeting "hi" """
     print("hi")
 
 
