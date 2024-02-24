@@ -2,12 +2,12 @@
 
 
 def hello():
-    """Prints the greeting "hi"."""
+    """Prints the greeting "hi" """
     print("hi")
 
 
 def bye():
-    """Prints the greeting "bye"."""
+    """Prints the greeting "bye" """
     print("bye")
 
 
