@@ -3,12 +3,12 @@
 
 def hello():
     """Prints the greeting "hi"."""
-    print("hi")
+    return "hi"
 
 
 def bye():
     """Prints the greeting "bye"."""
-    print("bye")
+    return "bye"
 
 
-print(hello())
+# print(hello())
